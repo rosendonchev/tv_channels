@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="btv.bg" tvg-logo="http://epg.cloudns.org/tv/logos/btv.png" group-title="Auto",bTV
+https://vd2.bweb.bg/hls/2110383625.m3u8?bt=wqo6Fbz35BD0XpoiQZJ5ow&ex=1691594276
+#EXTINF:-1 tvg-id="NOVA" tvg-logo="http://epg.cloudns.org/tv/logos/nova.png" group-title="Auto",NOVA TV
+https://lb-ts.cdn.bg/ntv/fls/ntv_2.stream/playlist.m3u8?at=4b537b7ecb9fbea4824f015700e02896
+#EXTINF:-1 tvg-id="BulgariaOnAir" tvg-logo="http://epg.cloudns.org/tv/logos/bulgariaonair.png" group-title="Auto",BulgariaOnAir
+https://e106-ts.cdn.bg/mnet/fls/bonair.stream/chunklist.m3u8?at=4b537b7ecb9fbea4824f015700e02896
+#EXTINF:-1 tvg-id="AGROTV" tvg-logo="https://www.livetvcentral.com/imgs/tvs/1789.jpg" group-title="Auto",AGROTV BG
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-id="HERITAGE+" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2761-294x165-FFFFFF.jpg" group-title="Auto",HERITAGE+
+https://heritage-plus-vivalive.evrideo.tv/05c9af40-9d2b-445b-ab20-5e46889877ce_1000010996_HLS/video_1080p_1000010996.m3u8
+#EXTINF:-1 tvg-id="HERITAGE Tourism" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2916-294x165-FFFFFF.jpg" group-title="Auto",HERITAGE TOURISM
+https://heritage-tourism-vivalive.evrideo.tv/292237b5-da55-43ca-9668-1a46be327705_1000012278_HLS/video_1080p_1000012278.m3u8
+#EXTINF:-1 tvg-id="S+" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2762-294x165-FFFFFF.jpg" group-title="Auto",S plus
+https://s-plus-vivalive.evrideo.tv/91cf8e90-ebe5-48b4-a0ad-6d001d27d479_1000012093_HLS/video_1080p_1000012093.m3u8
+#EXTINF:-1 tvg-id="4K TRAVEL" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2935-294x165-FFFFFF.jpg" group-title="Auto",4K TRAVEL
+https://4k-travel-vivalive.evrideo.tv/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/video_1080p_1000014572.m3u8
+
